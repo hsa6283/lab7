@@ -31,10 +31,10 @@
 }
 
 #navbar-container ul li a{
+  color: #fff;
   display: block;
   padding: 10px 20px;
   text-decoration: none;
-  color: #fff;
 }
 
 #main-navbar #onpage{
@@ -42,11 +42,11 @@
 }
 
 #sidebar{
-  background-color: red;
-  position: fixed;
   right:0%;
   height: 100%;
   width: 20%;
+  background-color: red;
+  position: fixed;
 }
 
 #sidebar-container ul{
